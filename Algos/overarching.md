@@ -34,3 +34,22 @@ Has the stupid name of dynamic programming because a guy was trying to hide from
 - Broadly applicable and should be one of the first techniques to use when you know nothing else
 - Can often reduce from exponential to polynomial by looking up answers to subproblems rather than repeating them every time
 - Can usually use recursion + memoization or 'bottom-up', an iterative method where you precompute the subproblems and store in a table
+
+### Basic Steps
+
+1. Subproblems
+2. Guess
+3. recurrence/Bellman Equation
+4. Memoize, Table
+5. Solve original problem
+
+### Strategies
+
+- For strings and sequences use suffixes/prefixes O(n) or substrings O(n^2)
+
+### Examples
+
+- Fibonacci
+- Knapsack
+- Weighted interval scheduling
+- Bellman/Ford for networks
