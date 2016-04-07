@@ -12,6 +12,7 @@ Is wildlife overabundant? A qualified yes
   - property damage
   - damage to crops/livestock
   - transmit deadly diseases
+  
 2) When animals depress the abundance of a favored species
 3) When animals are too numerous for their own good
 4) When animals are causing undesirable changes in the ecosystem
