@@ -13,3 +13,7 @@
 ## Podcasts
 
 [Functional and Immutable Design Patterns in JavaScript - JavaScript Air](https://javascriptair.com/episodes/2015-12-30/)
+
+## Channels
+
+[funfunfunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
