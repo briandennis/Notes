@@ -33,3 +33,17 @@ ajax('http://some/url', function(json) {
   - Portable since all the code is inherit in the function
   - Much more testable since you inject anything that matters
   - Can run in parallel, no race conditions
+
+## Currying 
+
+  - Call a function with less arguments, and it returns a function that takes the remaining arguments.
+  - Useful turning any single variable function, into a function on arrays
+  
+  ```JavaScript
+  let map =  ( mapFunc ) => {
+  
+    return (arrayArg) => arrayArg.map(mapFunc);
+    
+  }
+  ```
+  - Allows you to convert multivariable functions to 'transpile' to single variable functions, maintaining the mathematical definition of funciton
