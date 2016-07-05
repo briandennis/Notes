@@ -13,7 +13,7 @@ ajax('http://some/url', handleResonse);
 instead of...
 
 ```JavaScript
-ajax('http://some/url', function(json) {
+ajax('http://some/url', (json) => {
   return handleResponse(json);
 })
 ```
