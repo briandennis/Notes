@@ -92,3 +92,5 @@ The category functional programming is concerned with:
 
 This usefulness viewing it in this mathematical lens will become apparent later. But for right now, the important thing Category Theory gives us is the identity function and the associativity of composition. 
 
+## Functors
+
